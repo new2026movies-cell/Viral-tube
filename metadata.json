@@ -1,0 +1,8 @@
+{
+  "name": "Viral tube",
+  "description": "The ultimate destination for viral videos and exclusive leaks. Watch, explore, and get AI-powered insights on the most trending content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
